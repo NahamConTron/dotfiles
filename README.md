@@ -27,7 +27,7 @@ distribution with the same applications installed.
 Clone the repository to `$HOME/.dotfiles`:
 
 ```
-$ git clone --recursive https://github.com/calebstewart/dotfiles .dotfiles
+$ git clone --recursive https://github.com/nahamcontron/dotfiles .dotfiles
 ```
 
 Run the install script:
